@@ -1,8 +1,0 @@
-snowflake:
-  account: "your_account"
-  user: "your_username"
-  password: "your_password"
-  warehouse: "housing_compute_wh"
-  database: "housing_market_analysis"
-  schema: "public"
-  role: "your_role"
