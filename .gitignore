@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 snowflake_config.yaml
+=======
+config/*.yaml
+*.yaml
+>>>>>>> 25ae4ae0c942aa8c73b0bb677e96808cb2fff5b5
 venv/
