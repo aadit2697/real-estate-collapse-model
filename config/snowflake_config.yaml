@@ -1,7 +1,7 @@
 snowflake:
-  account: ""
-  user: ""
-  password: ""
+  account: "pmb32661"
+  user: "kmtare"
+  password: "testPASSKEY"
   warehouse: "HOUSING_COMPUTE_WH"
   database: "HOUSING_MARKET_ANALYSIS"
   schema: "PUBLIC"
