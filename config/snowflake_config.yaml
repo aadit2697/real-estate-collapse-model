@@ -1,0 +1,8 @@
+snowflake:
+  account: ""
+  user: ""
+  password: ""
+  warehouse: "HOUSING_COMPUTE_WH"
+  database: "HOUSING_MARKET_ANALYSIS"
+  schema: "PUBLIC"
+  role: "ACCOUNTADMIN"
