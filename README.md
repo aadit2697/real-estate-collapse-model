@@ -1,6 +1,6 @@
 # 🏠 Housing Market Collapse Analysis & Risk Detection
 
-> **A project to predict housing prices, detect potential bubbles, and assess market risks using Snowflake, Streamlit, and Machine Learning.**
+**A project to predict housing prices, detect potential bubbles, and assess market risks using Snowflake, Streamlit, and Machine Learning.**
 
 ---
 
